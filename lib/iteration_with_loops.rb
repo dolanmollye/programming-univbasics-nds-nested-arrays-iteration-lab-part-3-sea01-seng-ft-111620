@@ -5,7 +5,8 @@ def join_nested_strings(src)
   print_strings = ""
   row_index = 0 
   
-  while row_index < src
+  while row_index < src.count do
+    if 
   
   
   
